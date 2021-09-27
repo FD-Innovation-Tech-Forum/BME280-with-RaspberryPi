@@ -9,4 +9,4 @@ Sample Power BI Dashboard:
 
 ![2021-09-27_20-13-19](https://user-images.githubusercontent.com/4493535/134970061-a4357a1d-5a95-4034-b19a-cec0af9889d8.jpg)
 
-View Blog Post for more details here: https://redeyeball.blogspot.com/
+View Blog Post for more details here: https://redeyeball.blogspot.com/2021/09/bme280-sensor-with-raspberry-pi.html
