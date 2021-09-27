@@ -1,4 +1,4 @@
-# BME280 Sensor with Raspberry Pi strening to Power BI
+# BME280 Sensor with Raspberry Pi streaming to Power BI
 BME280 Sensor connected to a Raspberry Pi with php script that reads sensor data and then post values via Power BI streaming dataset API end-point.
 
 Circuit Diagram:
